@@ -106,4 +106,3 @@ You can customize:
 **Ankush Pandey**  
 📎 [GitHub](https://github.com/Ankush2201)  
 
-## 💡 Tip
